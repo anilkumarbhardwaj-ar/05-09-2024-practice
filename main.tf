@@ -4,3 +4,10 @@ resource "azurerm_resource_group" "rgblock" {
     location = "west us"
   
 }
+
+resource "azurerm_resource_group" "rgblock4" {
+
+    name = "anil123"
+    location = "west us"
+  
+}
